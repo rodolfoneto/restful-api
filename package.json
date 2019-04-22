@@ -1,0 +1,23 @@
+{
+  "name": "restful-api",
+  "version": "1.0.0",
+  "description": "Projetc to restful api with auth token e security assets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodolfoneto/restful-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodolfoneto/restful-api/issues"
+  },
+  "homepage": "https://github.com/rodolfoneto/restful-api#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "sinon": "^7.3.2"
+  }
+}
